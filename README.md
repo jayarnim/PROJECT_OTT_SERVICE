@@ -75,12 +75,12 @@
     - Exploratory Data Analysis
     - Data App
 
-👩 **임은혜**
+👩 [**임은혜**](https://github.com/ImEunhye)
 
     - Exploratory Data Analysis
     - Presentation
 
-👨 **정사도**
+👨 [**정사도**](https://github.com/sadojeong)
 
     - Crawling
     - Wordcloud
