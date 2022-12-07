@@ -86,10 +86,6 @@
     - Wordcloud
     - Presentation
 
-👩 [**김연지**](https://github.com/YeonjiKim0316)
-    
-    - teacher
-
 ---
 
 ## 🛠 SKILL USED
